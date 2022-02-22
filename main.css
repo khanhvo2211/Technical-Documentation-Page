@@ -1,0 +1,43 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}   
+#navbar{  
+    
+    position: fixed;
+    min-width: 200px;
+    width: 300px;
+    height: 100%;
+    border-right: solid;
+    border-color: rgba(0, 22, 22, 0.4);
+}
+#navbar li{
+    border-top: 1px solid;
+    list-style: none;
+}
+#navbar  a {
+  
+    text-decoration: none;
+    display: block;
+    padding: 10px 30px;
+    color: #4d4e53;
+}  
+header{
+    text-align: left;
+    margin: 10px;
+    font-size: 1.8em;
+    color: black;
+}
+.main-section{
+    margin-left: 310px;
+    padding: 15px;
+}
+.main-section a {
+    
+}
+section {
+    display: block;
+
+}
+ 
+}
